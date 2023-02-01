@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/darc90/hexaindo",
         "fileSize": 14395,
         "status": 1,
         "language": "de",
@@ -447,7 +447,7 @@
         ],
         "version": 8,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/darc90/hexaindo/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
