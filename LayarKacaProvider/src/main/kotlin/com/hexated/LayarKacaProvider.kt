@@ -9,7 +9,7 @@ import org.jsoup.nodes.Element
 import java.net.URLDecoder
 
 class LayarKacaProvider : MainAPI() {
-    override var mainUrl = "https://lk21official.vip"
+    override var mainUrl = "https://a.lk21official.lol/"
     //    private val redirectUrl = "https://nd21x1.github.io"
     private val seriesUrl = "https://drama1.nontondrama.lol"
     override var name = "LayarKaca"
