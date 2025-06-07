@@ -10,9 +10,9 @@ import org.jsoup.nodes.Element
 import java.net.URI
 
 class IdlixProvider : MainAPI() {
-    override var mainUrl = "https://88.210.12.206"
+    override var mainUrl = "https://id2.idlixvip.asia/"
     private var directUrl = mainUrl
-    override var name = "Idlix"
+    override var name = "IDLIX"
     override val hasMainPage = true
     override var lang = "id"
     override val hasDownloadSupport = true
